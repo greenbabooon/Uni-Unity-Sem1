@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: de2b02bc3c3d1214f9f5419b92f1e6d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3878663763139786602
+    second: Terminal animation_0
+  - first:
+      213: 3383396259667629741
+    second: Terminal animation_1
+  - first:
+      213: -7351600456840118042
+    second: Terminal animation_2
+  - first:
+      213: 5584562956073741348
+    second: Terminal animation_3
+  - first:
+      213: -8721393954649279729
+    second: Terminal animation_4
+  - first:
+      213: -1911913082208629698
+    second: Terminal animation_5
+  - first:
+      213: 60527811164329934
+    second: Terminal animation_6
+  - first:
+      213: 8258217689517826975
+    second: Terminal animation_7
+  - first:
+      213: 1721631783683624019
+    second: Terminal animation_8
+  - first:
+      213: -6730333927831646694
+    second: Terminal animation_9
+  - first:
+      213: 7821085207840705379
+    second: Terminal animation_10
+  - first:
+      213: 1351305641178857659
+    second: Terminal animation_11
+  - first:
+      213: 6445923865674720549
+    second: Terminal animation_12
+  - first:
+      213: 2896379341879931780
+    second: Terminal animation_13
+  - first:
+      213: -3409496039910692375
+    second: Terminal animation_14
+  - first:
+      213: -8634701298556063883
+    second: Terminal animation_15
+  - first:
+      213: -1428424082697121657
+    second: Terminal animation_16
+  - first:
+      213: -1265541587153975384
+    second: Terminal animation_17
+  - first:
+      213: 3916314452222076535
+    second: Terminal animation_18
+  - first:
+      213: -2414142362287330758
+    second: Terminal animation_19
+  - first:
+      213: 3731552706707333684
+    second: Terminal animation_20
+  - first:
+      213: -823241452431289479
+    second: Terminal animation_21
+  - first:
+      213: -939507210705653854
+    second: Terminal animation_22
+  - first:
+      213: 4594444985835593512
+    second: Terminal animation_23
+  - first:
+      213: -752456207824622038
+    second: Terminal animation_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terminal animation_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 845
+        width: 649
+        height: 1235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67702d7428c3d530800000000000000
+      internalID: 3878663763139786602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terminal animation_1
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 850
+        width: 677
+        height: 1233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6dfdfd8fc34fe20800000000000000
+      internalID: 3383396259667629741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terminal animation_2
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 823
+        width: 649
+        height: 1194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0027fb55ed9f990800000000000000
+      internalID: -7351600456840118042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terminal animation_3
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 883
+        width: 649
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ca4969b6a508d40800000000000000
+      internalID: 5584562956073741348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terminal animation_4
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 844
+        width: 649
+        height: 1174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03f3eaf76267f680800000000000000
+      internalID: -8721393954649279729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terminal animation_5
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 868
+        width: 649
+        height: 1145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c48857e258775e0800000000000000
+      internalID: -1911913082208629698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 051b1354e98c70a49a847071e56dd8b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terminal animation_0: 3878663763139786602
+      Terminal animation_1: 3383396259667629741
+      Terminal animation_10: 7821085207840705379
+      Terminal animation_11: 1351305641178857659
+      Terminal animation_12: 6445923865674720549
+      Terminal animation_13: 2896379341879931780
+      Terminal animation_14: -3409496039910692375
+      Terminal animation_15: -8634701298556063883
+      Terminal animation_16: -1428424082697121657
+      Terminal animation_17: -1265541587153975384
+      Terminal animation_18: 3916314452222076535
+      Terminal animation_19: -2414142362287330758
+      Terminal animation_2: -7351600456840118042
+      Terminal animation_20: 3731552706707333684
+      Terminal animation_21: -823241452431289479
+      Terminal animation_22: -939507210705653854
+      Terminal animation_23: 4594444985835593512
+      Terminal animation_24: -752456207824622038
+      Terminal animation_25: -6645700
+      Terminal animation_3: 5584562956073741348
+      Terminal animation_4: -8721393954649279729
+      Terminal animation_5: -1911913082208629698
+      Terminal animation_6: 60527811164329934
+      Terminal animation_7: 8258217689517826975
+      Terminal animation_8: 1721631783683624019
+      Terminal animation_9: -6730333927831646694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

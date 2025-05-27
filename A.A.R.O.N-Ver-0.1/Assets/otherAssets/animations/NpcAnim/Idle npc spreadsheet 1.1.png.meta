@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 6b4e50465b102c44697b1e4a5d9ab43e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3575424841051768203
+    second: Idle npc spreadsheet 1.1_0
+  - first:
+      213: -7581124346756561118
+    second: Idle npc spreadsheet 1.1_1
+  - first:
+      213: 8606018549933917792
+    second: Idle npc spreadsheet 1.1_2
+  - first:
+      213: 130534928659360395
+    second: Idle npc spreadsheet 1.1_3
+  - first:
+      213: 7787693652535434678
+    second: Idle npc spreadsheet 1.1_4
+  - first:
+      213: 8969370261809291801
+    second: Idle npc spreadsheet 1.1_5
+  - first:
+      213: -6407663685672835487
+    second: Idle npc spreadsheet 1.1_6
+  - first:
+      213: 1354567881790577948
+    second: Idle npc spreadsheet 1.1_7
+  - first:
+      213: -507114548692907102
+    second: Idle npc spreadsheet 1.1_8
+  - first:
+      213: 3581477400034199127
+    second: Idle npc spreadsheet 1.1_9
+  - first:
+      213: -4653033166099139667
+    second: Idle npc spreadsheet 1.1_10
+  - first:
+      213: 442135594276031926
+    second: Idle npc spreadsheet 1.1_11
+  - first:
+      213: -8393922495784991583
+    second: Idle npc spreadsheet 1.1_12
+  - first:
+      213: 154681980027720561
+    second: Idle npc spreadsheet 1.1_13
+  - first:
+      213: 3883113096475525834
+    second: Idle npc spreadsheet 1.1_14
+  - first:
+      213: -6378857765358316177
+    second: Idle npc spreadsheet 1.1_15
+  - first:
+      213: 9024702098902554742
+    second: Idle npc spreadsheet 1.1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 720
+        width: 315
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460ec98f52fc3642a3daaa4b6ab2f4a
+      internalID: -2075565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 720
+        width: 315
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df896a2ae5d06424f8369e050c59c36c
+      internalID: -1839020156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_2
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 720
+        width: 315
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b0867c3da0ae84dbc4b2787f2a9252
+      internalID: -994665215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 720
+        width: 315
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c76be6a7be984ba88d0a25cc475a3
+      internalID: 1498885392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_4
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 720
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14847e5f6617f94c8891323e8a14825
+      internalID: -1837899233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle npc spreadsheet 1.1_5
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 720
+        width: 298
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267142ebd49b5444a379e8558feb099
+      internalID: -2136969126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d401355ed50a7a1459ad8d20028a0dff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle npc spreadsheet 1.1_0: -2075565736
+      Idle npc spreadsheet 1.1_1: -1839020156
+      Idle npc spreadsheet 1.1_2: -994665215
+      Idle npc spreadsheet 1.1_3: 1498885392
+      Idle npc spreadsheet 1.1_4: -1837899233
+      Idle npc spreadsheet 1.1_5: -2136969126
+      Idle npc spreadsheet 1.1_6: 699135980
+      Idle npc spreadsheet 1.1_7: 891883934
+      Idle npc spreadsheet 1.1_8: 2146847375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

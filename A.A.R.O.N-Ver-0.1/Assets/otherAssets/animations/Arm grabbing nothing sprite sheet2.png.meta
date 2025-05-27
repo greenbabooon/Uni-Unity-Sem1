@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 7248bed3d4e0e934d9d3d63fc3956353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1037824187593440905
+    second: Arm grabbing nothing sprite sheet2_0
+  - first:
+      213: -5068779294957008876
+    second: Arm grabbing nothing sprite sheet2_1
+  - first:
+      213: -6094204536569316455
+    second: Arm grabbing nothing sprite sheet2_2
+  - first:
+      213: -1163918048983490066
+    second: Arm grabbing nothing sprite sheet2_3
+  - first:
+      213: -7578026406753279342
+    second: Arm grabbing nothing sprite sheet2_4
+  - first:
+      213: 8187507781320365128
+    second: Arm grabbing nothing sprite sheet2_5
+  - first:
+      213: -1122666067515058157
+    second: Arm grabbing nothing sprite sheet2_6
+  - first:
+      213: 8843405814775347307
+    second: Arm grabbing nothing sprite sheet2_7
+  - first:
+      213: -21322081051430720
+    second: Arm grabbing nothing sprite sheet2_8
+  - first:
+      213: -6677201432667499016
+    second: Arm grabbing nothing sprite sheet2_9
+  - first:
+      213: 4872758026624212276
+    second: Arm grabbing nothing sprite sheet2_10
+  - first:
+      213: -7048528958084162651
+    second: Arm grabbing nothing sprite sheet2_11
+  - first:
+      213: 1911773281411087930
+    second: Arm grabbing nothing sprite sheet2_12
+  - first:
+      213: 4291249370014482531
+    second: Arm grabbing nothing sprite sheet2_13
+  - first:
+      213: 5957442747067773038
+    second: Arm grabbing nothing sprite sheet2_14
+  - first:
+      213: -4704650476222824949
+    second: Arm grabbing nothing sprite sheet2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4107
+        width: 2053
+        height: 1845
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16cae73bee8dfe0800000000000000
+      internalID: -1163918048983490066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_4
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 4392
+        width: 2602
+        height: 1473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e0f6122175d690800000000000000
+      internalID: -7578026406753279342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_5
+      rect:
+        serializedVersion: 2
+        x: 5187
+        y: 4353
+        width: 2520
+        height: 1394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d855a2fedf9170800000000000000
+      internalID: 8187507781320365128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_6
+      rect:
+        serializedVersion: 2
+        x: 7977
+        y: 4140
+        width: 2839
+        height: 1325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185164e82d7b60f0800000000000000
+      internalID: -1122666067515058157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_7
+      rect:
+        serializedVersion: 2
+        x: 11219
+        y: 4078
+        width: 2504
+        height: 1309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68fe42fbb61aba70800000000000000
+      internalID: 8843405814775347307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_12
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1816
+        width: 1701
+        height: 1684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3791ababf78a10800000000000000
+      internalID: 1911773281411087930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_13
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 1891
+        width: 1543
+        height: 1587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3600556e0949d8b30800000000000000
+      internalID: 4291249370014482531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm grabbing nothing sprite sheet2_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1862
+        width: 2053
+        height: 1414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60b3b45d961da250800000000000000
+      internalID: 5957442747067773038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 395ec8274526bdf48b0614b488ace62d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arm grabbing nothing sprite sheet2_0: -1148467129
+      Arm grabbing nothing sprite sheet2_16: -130735766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

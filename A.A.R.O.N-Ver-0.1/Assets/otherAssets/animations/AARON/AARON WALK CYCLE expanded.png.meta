@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: ffb92288e69a04843868b0bc2a32f30f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 367626297040041529
+    second: AARON WALK CYCLE expanded_0
+  - first:
+      213: 168040214279757226
+    second: AARON WALK CYCLE expanded_1
+  - first:
+      213: -5965887965324776431
+    second: AARON WALK CYCLE expanded_2
+  - first:
+      213: -6261199993361171422
+    second: AARON WALK CYCLE expanded_3
+  - first:
+      213: -2160532068860371080
+    second: AARON WALK CYCLE expanded_4
+  - first:
+      213: 2822689816338910092
+    second: AARON WALK CYCLE expanded_5
+  - first:
+      213: -8654281185250796453
+    second: AARON WALK CYCLE expanded_6
+  - first:
+      213: 2180465189729807176
+    second: AARON WALK CYCLE expanded_7
+  - first:
+      213: -6637317958295302126
+    second: AARON WALK CYCLE expanded_8
+  - first:
+      213: -2883599707985202449
+    second: AARON WALK CYCLE expanded_9
+  - first:
+      213: -1894745087530816237
+    second: AARON WALK CYCLE expanded_10
+  - first:
+      213: 9030974053627849433
+    second: AARON WALK CYCLE expanded_11
+  - first:
+      213: -1225094897340415178
+    second: AARON WALK CYCLE expanded_12
+  - first:
+      213: -2720414775372563021
+    second: AARON WALK CYCLE expanded_13
+  - first:
+      213: -3231498751634636475
+    second: AARON WALK CYCLE expanded_14
+  - first:
+      213: 2944779221408797799
+    second: AARON WALK CYCLE expanded_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 275
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1618
+        width: 330
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad10204faff45200800000000000000
+      internalID: 168040214279757226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_2
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1634
+        width: 289
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ce9011188e43da0800000000000000
+      internalID: -5965887965324776431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_4
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1579
+        width: 364
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fdcb5c78f3402e0800000000000000
+      internalID: -2160532068860371080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_5
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1617
+        width: 213
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b4ef5ce653c2720800000000000000
+      internalID: 2822689816338910092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_6
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1620
+        width: 341
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c97c64d11d5e780800000000000000
+      internalID: -8654281185250796453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_7
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1612
+        width: 354
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b23f69981924e10800000000000000
+      internalID: 2180465189729807176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_8
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1615
+        width: 276
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210dc72ab7283e3a0800000000000000
+      internalID: -6637317958295302126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_9
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 1615
+        width: 305
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe23f13f7556bf7d0800000000000000
+      internalID: -2883599707985202449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_10
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 1617
+        width: 229
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d2fc5b16384b5e0800000000000000
+      internalID: -1894745087530816237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_11
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 1594
+        width: 387
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae14abd07745d70800000000000000
+      internalID: 9030974053627849433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_12
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1621
+        width: 280
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63381e38ea69ffee0800000000000000
+      internalID: -1225094897340415178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON WALK CYCLE expanded_13
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 1607
+        width: 330
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb138dc252f3ad0800000000000000
+      internalID: -2720414775372563021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abe58e5660d2bcd499af796e5c7a301d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AARON WALK CYCLE expanded_1: 168040214279757226
+      AARON WALK CYCLE expanded_10: -1894745087530816237
+      AARON WALK CYCLE expanded_11: 9030974053627849433
+      AARON WALK CYCLE expanded_12: -1225094897340415178
+      AARON WALK CYCLE expanded_13: -2720414775372563021
+      AARON WALK CYCLE expanded_2: -5965887965324776431
+      AARON WALK CYCLE expanded_4: -2160532068860371080
+      AARON WALK CYCLE expanded_5: 2822689816338910092
+      AARON WALK CYCLE expanded_6: -8654281185250796453
+      AARON WALK CYCLE expanded_7: 2180465189729807176
+      AARON WALK CYCLE expanded_8: -6637317958295302126
+      AARON WALK CYCLE expanded_9: -2883599707985202449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
