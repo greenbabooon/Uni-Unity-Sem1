@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 765bb6d3680070f4eb77d51c1f63b27e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6475371983489022514
+    second: final walk spread_0
+  - first:
+      213: 7477978034037962977
+    second: final walk spread_1
+  - first:
+      213: -2819481627942097525
+    second: final walk spread_2
+  - first:
+      213: 7395967471461889090
+    second: final walk spread_3
+  - first:
+      213: -1201301282557440794
+    second: final walk spread_4
+  - first:
+      213: 6807262968428367082
+    second: final walk spread_5
+  - first:
+      213: -8441159517924861980
+    second: final walk spread_6
+  - first:
+      213: -5867353142827970579
+    second: final walk spread_7
+  - first:
+      213: -7227186522182782453
+    second: final walk spread_8
+  - first:
+      213: 7250837390684115903
+    second: final walk spread_9
+  - first:
+      213: -5154288350313377458
+    second: final walk spread_10
+  - first:
+      213: -1277245864164014003
+    second: final walk spread_11
+  - first:
+      213: -947127318928473569
+    second: final walk spread_12
+  - first:
+      213: -5886755377891396265
+    second: final walk spread_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 225
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final walk spread_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1703
+        width: 125
+        height: 499
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46092185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d65cbc5603fd8d0800000000000000
+      internalID: -2819481627942097525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1698
+        width: 184
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47325101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24474d2da31c3a660800000000000000
+      internalID: 7395967471461889090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1712
+        width: 223
+        height: 514
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4474708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec41f829de145fe0800000000000000
+      internalID: -1201301282557440794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_5
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1675
+        width: 155
+        height: 499
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46092185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec08d57a91487e50800000000000000
+      internalID: 6807262968428367082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_6
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1705
+        width: 208
+        height: 476
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48319328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75ea1442afada80800000000000000
+      internalID: -8441159517924861980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 881
+        width: 175
+        height: 492
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46747968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3d8d3b03620a460800000000000000
+      internalID: 7250837390684115903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_10
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 906
+        width: 241
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4113a1dd0a4878b0800000000000000
+      internalID: -5154288350313377458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_11
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 901
+        width: 215
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45725647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48caa757af464ee0800000000000000
+      internalID: -1277245864164014003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_12
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 898
+        width: 265
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45908183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124336b8b02bd2f0800000000000000
+      internalID: -947127318928473569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final walk spread_13
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 939
+        width: 271
+        height: 477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4821803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b9255c2b0e4ea0800000000000000
+      internalID: -5886755377891396265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 332b947b579431a4c8cbf83a5bfe5b3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      final walk spread_0: -1029197237
+      final walk spread_10: -5154288350313377458
+      final walk spread_11: -1277245864164014003
+      final walk spread_12: -947127318928473569
+      final walk spread_13: -5886755377891396265
+      final walk spread_2: -2819481627942097525
+      final walk spread_3: 7395967471461889090
+      final walk spread_4: -1201301282557440794
+      final walk spread_5: 6807262968428367082
+      final walk spread_6: -8441159517924861980
+      final walk spread_7: -5867353142827970579
+      final walk spread_9: 7250837390684115903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

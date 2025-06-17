@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 22cdcaf914a7c1a4bb0404ff969a5285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4568689068071968212
+    second: Spreadsheet idle_0
+  - first:
+      213: 4892985765954682980
+    second: Spreadsheet idle_1
+  - first:
+      213: -1811271332052332560
+    second: Spreadsheet idle_2
+  - first:
+      213: -5660956038784044406
+    second: Spreadsheet idle_3
+  - first:
+      213: -5018443383922384999
+    second: Spreadsheet idle_4
+  - first:
+      213: 5476607942766280885
+    second: Spreadsheet idle_5
+  - first:
+      213: -571646401298726259
+    second: Spreadsheet idle_6
+  - first:
+      213: 3993191450501405929
+    second: Spreadsheet idle_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spreadsheet idle_0
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2369
+        width: 125
+        height: 446
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44843048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c222c50af71c890c0800000000000000
+      internalID: -4568689068071968212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_1
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2371
+        width: 125
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4784689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46085c641a067e340800000000000000
+      internalID: 4892985765954682980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_2
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2362
+        width: 125
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49751243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff0c2de1521dd6e0800000000000000
+      internalID: -1811271332052332560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_3
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2368
+        width: 125
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5167959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82bc2bc97e3071b0800000000000000
+      internalID: -5660956038784044406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1708
+        width: 125
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f95e7c458ea5ab0800000000000000
+      internalID: -5018443383922384999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1707
+        width: 125
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49627793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0caaa58e1d00c40800000000000000
+      internalID: 5476607942766280885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_6
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1713
+        width: 125
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4796163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82857170aa1118f0800000000000000
+      internalID: -571646401298726259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spreadsheet idle_7
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 1734
+        width: 125
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4474273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec5347a77aaa6730800000000000000
+      internalID: 3993191450501405929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bc7d73ad547b8e4f9cdabf0b897c214
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spreadsheet idle_0: -4568689068071968212
+      Spreadsheet idle_1: 4892985765954682980
+      Spreadsheet idle_2: -1811271332052332560
+      Spreadsheet idle_3: -5660956038784044406
+      Spreadsheet idle_4: -5018443383922384999
+      Spreadsheet idle_5: 5476607942766280885
+      Spreadsheet idle_6: -571646401298726259
+      Spreadsheet idle_7: 3993191450501405929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 998e4acc0e4c53d41803f820b68d0100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1224439468014180152
+    second: death animation spreadsheet remastered_0
+  - first:
+      213: -1008971386209648186
+    second: death animation spreadsheet remastered_1
+  - first:
+      213: 350807066264386182
+    second: death animation spreadsheet remastered_2
+  - first:
+      213: 476256793984022173
+    second: death animation spreadsheet remastered_3
+  - first:
+      213: -1544513570242430784
+    second: death animation spreadsheet remastered_4
+  - first:
+      213: -6404802226910153944
+    second: death animation spreadsheet remastered_5
+  - first:
+      213: 8666289538229574293
+    second: death animation spreadsheet remastered_6
+  - first:
+      213: 6287500323841995941
+    second: death animation spreadsheet remastered_7
+  - first:
+      213: 6756311783452661329
+    second: death animation spreadsheet remastered_8
+  - first:
+      213: 4437847627110215292
+    second: death animation spreadsheet remastered_9
+  - first:
+      213: -6069726284341558020
+    second: death animation spreadsheet remastered_10
+  - first:
+      213: 2362585538730405134
+    second: death animation spreadsheet remastered_11
+  - first:
+      213: -5906082070262966453
+    second: death animation spreadsheet remastered_12
+  - first:
+      213: -7089292622060161768
+    second: death animation spreadsheet remastered_13
+  - first:
+      213: -4365992648011577357
+    second: death animation spreadsheet remastered_14
+  - first:
+      213: 6423353513059723144
+    second: death animation spreadsheet remastered_15
+  - first:
+      213: 1719756782983563742
+    second: death animation spreadsheet remastered_16
+  - first:
+      213: -5590467877142468277
+    second: death animation spreadsheet remastered_17
+  - first:
+      213: -515948554412696695
+    second: death animation spreadsheet remastered_18
+  - first:
+      213: -1148895484364122187
+    second: death animation spreadsheet remastered_19
+  - first:
+      213: 9160907512622040654
+    second: death animation spreadsheet remastered_20
+  - first:
+      213: -3132627055113886405
+    second: death animation spreadsheet remastered_21
+  - first:
+      213: 785644760471282315
+    second: death animation spreadsheet remastered_22
+  - first:
+      213: -4255934120755220244
+    second: death animation spreadsheet remastered_23
+  - first:
+      213: -1187007722471721173
+    second: death animation spreadsheet remastered_24
+  - first:
+      213: 7831329865064749930
+    second: death animation spreadsheet remastered_25
+  - first:
+      213: 285666963000975912
+    second: death animation spreadsheet remastered_26
+  - first:
+      213: 7671306851119675262
+    second: death animation spreadsheet remastered_27
+  - first:
+      213: 3588149984286177130
+    second: death animation spreadsheet remastered_28
+  - first:
+      213: -8889288117179313446
+    second: death animation spreadsheet remastered_29
+  - first:
+      213: 280818588838524433
+    second: death animation spreadsheet remastered_30
+  - first:
+      213: -4654598118477520451
+    second: death animation spreadsheet remastered_31
+  - first:
+      213: -3571028220243285696
+    second: death animation spreadsheet remastered_32
+  - first:
+      213: 1658682157364247416
+    second: death animation spreadsheet remastered_33
+  - first:
+      213: 3682612827093282849
+    second: death animation spreadsheet remastered_34
+  - first:
+      213: -277544880943094638
+    second: death animation spreadsheet remastered_35
+  - first:
+      213: 2786881678404766023
+    second: death animation spreadsheet remastered_36
+  - first:
+      213: 3215497483929689586
+    second: death animation spreadsheet remastered_37
+  - first:
+      213: 5744597204794015509
+    second: death animation spreadsheet remastered_38
+  - first:
+      213: -5892252347457200512
+    second: death animation spreadsheet remastered_39
+  - first:
+      213: -8040126139830602875
+    second: death animation spreadsheet remastered_40
+  - first:
+      213: -7351805130930093064
+    second: death animation spreadsheet remastered_41
+  - first:
+      213: 5548132124807053698
+    second: death animation spreadsheet remastered_42
+  - first:
+      213: 120179811745547324
+    second: death animation spreadsheet remastered_43
+  - first:
+      213: -2347545653184346977
+    second: death animation spreadsheet remastered_44
+  - first:
+      213: 3151091511804057946
+    second: death animation spreadsheet remastered_45
+  - first:
+      213: 671445674477745972
+    second: death animation spreadsheet remastered_46
+  - first:
+      213: 9176768180230981214
+    second: death animation spreadsheet remastered_47
+  - first:
+      213: 9041428178209395600
+    second: death animation spreadsheet remastered_48
+  - first:
+      213: 4231637368846892772
+    second: death animation spreadsheet remastered_49
+  - first:
+      213: 550578228895091456
+    second: death animation spreadsheet remastered_50
+  - first:
+      213: 5331904334797082165
+    second: death animation spreadsheet remastered_51
+  - first:
+      213: 2699278895036446161
+    second: death animation spreadsheet remastered_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 867
+        width: 152
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83714f375351ef010800000000000000
+      internalID: 1224439468014180152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 889
+        width: 162
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1c078bed96ff1f0800000000000000
+      internalID: -1008971386209648186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 981
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ab2690b215ed400800000000000000
+      internalID: 350807066264386182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 889
+        width: 161
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96b843e7010c9600800000000000000
+      internalID: 476256793984022173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 971
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8fdee4719c09ae0800000000000000
+      internalID: -1544513570242430784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 884
+        width: 157
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b3680f429d17a0800000000000000
+      internalID: -6404802226910153944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_6
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 957
+        width: 135
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9bd64b68d44870800000000000000
+      internalID: 8666289538229574293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 913
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a471cf5b30b14750800000000000000
+      internalID: 6287500323841995941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 855
+        width: 116
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565b7445cd33cd50800000000000000
+      internalID: 6756311783452661329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 867
+        width: 150
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee63577e6669d30800000000000000
+      internalID: 4437847627110215292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf448f96a1004cba0800000000000000
+      internalID: -6069726284341558020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 855
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d208ba70799c020800000000000000
+      internalID: 2362585538730405134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 862
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471cab16a1690ea0800000000000000
+      internalID: -5906082070262966453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_13
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 907
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157e41cbe5cd9d90800000000000000
+      internalID: -7089292622060161768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_14
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 849
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78d4391d0e863c0800000000000000
+      internalID: -4365992648011577357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 815
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887aeacdcf5542950800000000000000
+      internalID: 6423353513059723144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 817
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9cdc5beadcdd710800000000000000
+      internalID: 1719756782983563742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_17
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 809
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e0b6d51baa62b0800000000000000
+      internalID: -5590467877142468277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 552
+        width: 147
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bdadbf58bf6d8f0800000000000000
+      internalID: -515948554412696695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 622
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b71d62e4ad4e00f0800000000000000
+      internalID: -1148895484364122187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 695
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464b0e98d4122f70800000000000000
+      internalID: 9160907512622040654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 684
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35a82e6a4ca684d0800000000000000
+      internalID: -3132627055113886405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 561
+        width: 191
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a9834fbb27ea00800000000000000
+      internalID: 785644760471282315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_23
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 700
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0bbe05772efe4c0800000000000000
+      internalID: -4255934120755220244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_24
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 630
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277d64f3c6e68fe0800000000000000
+      internalID: -1187007722471721173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_25
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 698
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b971625097eac60800000000000000
+      internalID: 7831329865064749930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_26
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 687
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ecbdd694e6f300800000000000000
+      internalID: 285666963000975912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_27
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 542
+        width: 179
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773200dfe4f57a60800000000000000
+      internalID: 7671306851119675262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 582
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67733e566babc130800000000000000
+      internalID: 3588149984286177130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_29
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 687
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad21d6d0e87e2a480800000000000000
+      internalID: -8889288117179313446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_30
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 681
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fb0ac40ba5e300800000000000000
+      internalID: 280818588838524433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_31
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 675
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db122ff1cab876fb0800000000000000
+      internalID: -4654598118477520451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 630
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e089f0c8217ec0800000000000000
+      internalID: -3571028220243285696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_33
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 621
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b79f052a2d40710800000000000000
+      internalID: 1658682157364247416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_34
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 633
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120313cdad44b1330800000000000000
+      internalID: 3682612827093282849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_35
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a82ab666f52cf0800000000000000
+      internalID: -277544880943094638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 530
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494c58fe1efca620800000000000000
+      internalID: 2786881678404766023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 541
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9ac9dcedbf9c20800000000000000
+      internalID: 3215497483929689586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_38
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 617
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff279b8b8e8bf40800000000000000
+      internalID: 5744597204794015509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_39
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 583
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e1ade55b38a3ea0800000000000000
+      internalID: -5892252347457200512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_40
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 626
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583701ecfdbbb6090800000000000000
+      internalID: -8040126139830602875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_41
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 637
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f384095f2429f990800000000000000
+      internalID: -7351805130930093064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_42
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 594
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281ce02b5cceefc40800000000000000
+      internalID: 5548132124807053698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 574
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34444ce6e6faa100800000000000000
+      internalID: 120179811745547324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 608
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944fef8aa7db6fd0800000000000000
+      internalID: -2347545653184346977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_45
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 523
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5954d7e80deabb20800000000000000
+      internalID: 3151091511804057946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_46
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 596
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437f7319844715900800000000000000
+      internalID: 671445674477745972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 480
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5686c01a0e6a5f70800000000000000
+      internalID: 9176768180230981214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 518
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093d068460b997d70800000000000000
+      internalID: 9041428178209395600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_49
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 493
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee336c44cbc9ba30800000000000000
+      internalID: 4231637368846892772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_50
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 529
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0b5a6bfb04a700800000000000000
+      internalID: 550578228895091456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_51
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 481
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e02fb2ebabef940800000000000000
+      internalID: 5331904334797082165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death animation spreadsheet remastered_52
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 513
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53b588ad3c57520800000000000000
+      internalID: 2699278895036446161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

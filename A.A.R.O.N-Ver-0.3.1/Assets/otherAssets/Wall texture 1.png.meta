@@ -1,0 +1,5992 @@
+fileFormatVersion: 2
+guid: f8f93b961dd0a9040858e20ffe017cf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7031802550158753546
+    second: Wall texture_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall texture 1_31
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb3ca5efae0be489b8f9eb41770a03
+      internalID: 287210425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_32
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de31c6dde2f564abffae46225f5969
+      internalID: 1301617208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_33
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5948943d86f8ce4f944dfbc8b9230ef
+      internalID: -1544459459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_34
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef0f6361459bb4491c9b7844b21ac7
+      internalID: 1751317328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_35
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a49f3b6add224a9423876b362091a
+      internalID: 799139746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea8b49c57b46845a5394f6a9ee6190
+      internalID: -1122075501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_46
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc658f52e55964c94d3057698055f6
+      internalID: -1615333293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_47
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d93946f65c34a42af6abf6999b5ba8
+      internalID: 971033948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_48
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e851b237dc058734f85ddaf26db1bf7f
+      internalID: 650626086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_49
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c244fa20a6e0d419c0a9b851b43416
+      internalID: 2131009516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_95
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3d958cf6bf414ab0f67c1d42b840d
+      internalID: 410188535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38ba2c97b915c4cac57392c19bb549
+      internalID: 643429541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d947a4c481f74eb0e011e31364a99
+      internalID: 1394705944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406fe8cb005a4e4d9d377893411f4eb
+      internalID: 2050731189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb046fe3745d95346ad8c586a700eb1f
+      internalID: 1775170508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_4
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c382894cf82dac43a8fc76509653057
+      internalID: 1361830889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_5
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098b49d16bae864ea7c204e49c4483d
+      internalID: 915274524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_6
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d2bb5844a3aa40b7db9284c9abfc1
+      internalID: -893513758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_7
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c27c704de461f4499472beb000ea77
+      internalID: -889200212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_8
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5309d3699b874194ca1c417577ca6
+      internalID: 346409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_9
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0187d224d8fb164d8a2005243cff2b5
+      internalID: -183403591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_10
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc328437ff082114b853909a3d371195
+      internalID: -227313130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_11
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46df4abd770722479ffd0ef4891f820
+      internalID: 1660804931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_12
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaea246d72611d4dacc56e45eb327ec
+      internalID: -180539969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_13
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6042228f54d04a9b7443523583896
+      internalID: -1387956080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_14
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1469
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f8b8ef8e59be04f815beb3e09caa66
+      internalID: -2084969242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9751b092aae949820dced141b81e9
+      internalID: 1845112638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c71211e8c898843bfa0557d79a1696
+      internalID: 98695702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b799b0cd535b84bac7cb894b1e49b7
+      internalID: -1613410155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_18
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84728838301459044a8e55e029d33707
+      internalID: -1412020060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_19
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a5881e4f7aa2f418399f3e8f365517
+      internalID: 793018447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_20
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e997355fbb18e4fae946d0d7c16201
+      internalID: 1041602547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_21
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f09ded769922d42bf66be0c57965d4
+      internalID: -514532025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_22
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0a4e3102cac440b4a89431dfb1a1a
+      internalID: 583898060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_23
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed575d7d546f01545bc88769adb9e3d8
+      internalID: 517599109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_24
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024fa50d752c5c41a6514a19065c5b6
+      internalID: 1935948685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_25
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b73b00668ee61747811cda51a6f4c30
+      internalID: 1130659877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_26
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c05668dbdb42458555f68a72853ac
+      internalID: -1272936054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_27
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ad37f61573ae42a2c455362870c82
+      internalID: 1196011228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_28
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1349
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01c78ce63eac843a9a7100c7be61b7
+      internalID: -476672576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c230b5ff1a908764792ae4180994a546
+      internalID: -545385040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a27e8ead085a04195616275d3073f6
+      internalID: 612515937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_36
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d47ec874deb1744b39ebdb6e481797
+      internalID: -1358076947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_37
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcabcda3064c1c94eb8967d976d2bce3
+      internalID: -972838630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_38
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26a197a6f0e5049b21764fb78cd6df
+      internalID: 85078519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_39
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552db8f3b3830e04c88869c8d6b0a7be
+      internalID: -1219493343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_40
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b44166bcb99ef46a6b8e26e06003eb
+      internalID: 401899340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_41
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10774cd1075d4cf448eb2e4b4fd6229a
+      internalID: -9214704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_42
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713eac48055e104fb96272534d7212d
+      internalID: 1840571287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_43
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1229
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b0f3cd92298d46b609020b7b1f763
+      internalID: 1915218418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e4d0ae166dd54fa7e6fd0a188b804
+      internalID: 1286843247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_50
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f712329d0bdcc0d46ae8c57ed9cb4f76
+      internalID: 380397069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_51
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaabd98785aa444689ffc104446d628
+      internalID: -1298685979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_52
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3017620d3396d7449192fa70df456af
+      internalID: -1070614083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_53
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70be41bf2636a04283c8cb254ceb6aa
+      internalID: -1392222725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_54
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb14ce6412d2d245963878662e4ebcd
+      internalID: -1010184262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_55
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19637b2c92041244853d8b65c733636
+      internalID: -1588420956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_56
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb852b6a40b1348899a003a5b36b52
+      internalID: -407414722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_57
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1109
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7798048aad874da68e0a3bcc94454
+      internalID: 50688444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_58
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317f5340acbc19047ac60ad97da014fa
+      internalID: -737859249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987e5bb4f5ee554f8ced3c57a1390b7
+      internalID: -1013716673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_60
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc7f3429c1d20a44bdfdf3c3b784e0f
+      internalID: 852584332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_61
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250142f26d171e4eb29afa39a73c169
+      internalID: 1015084279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_62
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a8998c8bac4247b933b4f7d8a2708
+      internalID: -1698464882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_63
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f08daba7aba0a49a07b8f424a45d46
+      internalID: 1467116379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_64
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970bd81f4b927a409ba3f26d7d7f957
+      internalID: 335746923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_65
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe16aa6bf97f1240a66297ddf7edca8
+      internalID: -473219146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_66
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7455d73962a3046a6ebab731c9410a
+      internalID: -1252526130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_67
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c23242ff2cc92459da2c04fc8e8040
+      internalID: -1621302574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_68
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582352fdd971ec14b84025e21d3383e7
+      internalID: -1375137384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_69
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6cea745395cc445b21862a032da7d8
+      internalID: -1200872626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_70
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85677a4920e806f44a9fd0f5e438ddf4
+      internalID: 229859826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_71
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68294a85d034d4e40b0030888ddbe381
+      internalID: -1998074978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_72
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 989
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0088e5a02bcf3c74e98b474681a55151
+      internalID: 1938135947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdc4bbd2528f64d857055e56eaac50
+      internalID: -1221625453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_74
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a9b07f79e8894baeb6fb8a142be6b
+      internalID: -1892379405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_75
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a11b690bebf349b0db2934bf13962
+      internalID: 1171625410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_76
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef678524a2d7bdc4a8113897b15c5c5c
+      internalID: 58645437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_77
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317923007b2c3ec49bc28864aa6ac5a3
+      internalID: 1831292192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_78
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250df7714322f64787c88da462ccd98
+      internalID: -1299696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_79
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc5ba42008bef448339bdbda628536
+      internalID: 1589200029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_80
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e416e0eca1e87439d0d27336ccbbb7
+      internalID: 1651975665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_81
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c803bd843eafcc48a4afa7eca2a55c3
+      internalID: 351575880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_82
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709dcfcbfca561344851e953672ef1ed
+      internalID: -1914126137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_83
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be52b56aa98054084afe6bc4a9e4ed
+      internalID: -1672896233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_84
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd35d10854dd74595c0c9d4999c437
+      internalID: 1524017535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_85
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4035904af431c429b89c2a71c52952
+      internalID: -1093831119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_86
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 869
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3901b8a9a5387df4b9649decee59ea42
+      internalID: -2112487570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866672f77e68f9b49844437c3ddf4f34
+      internalID: 616711864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a856953fca6f49b299f771e36b72e
+      internalID: -44124757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_89
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a3e401978f82b4f9a7fb9751460258
+      internalID: 1661690087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_90
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142cb24a57b0594aae9820ac14c7a5d
+      internalID: -845029869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_91
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc2879070d61a4aad9f34cf24ed468
+      internalID: -1274851666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_92
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5bc1933614ae448e27c359cf63c1e
+      internalID: -2049345318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_93
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d522e469cd66e846881984cde16706e
+      internalID: -237856209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_94
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4e1579b9e7ce647a5a3f89fdccd0e6
+      internalID: 165082816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_96
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75dc08bdcc83f4c97218a776a5d187
+      internalID: 541294985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_97
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23bb2cdf64f38409c087981e26dfa5
+      internalID: 202448114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_98
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afe19306ed1884bbe2ae4a8249f9c6
+      internalID: -1194911111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_99
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36b3561a1494348bba9c0402762c08
+      internalID: -146708243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_100
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c399d0837447b46bb628c47ac141d0
+      internalID: -483348985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_101
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 749
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83328663579bc43b3348e7ab578cce
+      internalID: -1094247083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_102
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73448f281ac50e46acb965e1a60bce1
+      internalID: 67493396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920deaae393a86f4b9079878530a641c
+      internalID: 1367710564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_104
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f3b8b3fb38f914c95c94bfa18cd819
+      internalID: -640478497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_105
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd3cc9326e94b447926524758901da1
+      internalID: -872805693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_106
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfec236aa2f2e24aba5dcfab7bc6e8d
+      internalID: 2028102711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_107
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fc5031a552914ea54195b3ba7d136
+      internalID: 1113501968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_108
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d449bbe9bac44c64cb37b449471b35eb
+      internalID: -1785994406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_109
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12286e8f7899d9d479ae08ad572a1fd0
+      internalID: 2095799620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_110
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc2e94e7e1b744c9706e8f97b11a5f
+      internalID: -1259940362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_111
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b6cff0a5c0414fb7e6ad9f6a33db7
+      internalID: -282794778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_112
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88b35dc8292fa4dbf44e499c1e7cb9
+      internalID: -1081659560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_113
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce122c0d0dbd3344811150192fce3d0
+      internalID: -730522245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_114
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7c23c1449c00468e0b83fff21fc49
+      internalID: -496947417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_115
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 629
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b10c5c55a817e409df9f55103681f7
+      internalID: -1361246664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_116
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842158836b9eca47a478b9fed8bbeb3
+      internalID: 138398422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_117
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9b8b15e83a3e449d17fa8ac555338
+      internalID: 2345339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_118
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c8b96aa1404746a297fe233f4b44b
+      internalID: 614939304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_119
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3738b520f99a34684efae56637936e
+      internalID: -1853854938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_120
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5351c9f9141349bbd2e822760ba30
+      internalID: -539694534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_121
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467e72ee4f84ce44bbad8474ca6fd64
+      internalID: -2094432351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_122
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a635386260ba45b24d1044b443833
+      internalID: 678373912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_123
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9fd739d41e07645a4508a4c15dfa6b
+      internalID: -246929042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_124
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a252c25e1331409b20c4744fb31ae
+      internalID: -1732360778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_125
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63c8698dafbb64ab15236bcd0b5089
+      internalID: 323932524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_126
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1480992fe6994099a7c233f9d860a
+      internalID: -421810337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_127
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4561a1154a13f49a8d8d88ce754a5d
+      internalID: -875884383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_128
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a173c5aa175224b900d456c677c3a9
+      internalID: -1764631322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_129
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709aceb725d7298499deed3ea95f6c3d
+      internalID: -1171046042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_130
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 509
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6ac7f3813fb54198f12bbf17f40a0
+      internalID: -1177845037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_131
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd3a8d1143679b45b58dd74beb6104c
+      internalID: -1274967016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_132
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5585f454a04102489f891386517316f
+      internalID: -1088043674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_133
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e56b656d21f8459be82dce44bc592
+      internalID: -689774827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_134
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc3d990db4903419aa0cfe5f4863ae
+      internalID: -1680551852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_135
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf32f6ab4b16740b548772f4065a39
+      internalID: -1836955776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_136
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa9d1daf7871f4eae87d22f44ff352
+      internalID: 185422676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_137
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0cb1e9ef65b50428e7f9ca0434f247
+      internalID: -394869740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_138
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7e8223e19e05429f9a04a1de940c9
+      internalID: 1746543643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_139
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c188bbaeba8546aea3fa77c2fb96c
+      internalID: 1739957634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_140
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983fd894abc64e34fac57e99c9985a3d
+      internalID: 1237189408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_141
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20efd7b14020d874b803dc82c50758b3
+      internalID: 2103651701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_142
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27feea0ef12e7cb408c591dab6094ecd
+      internalID: 904213366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_143
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: effcd486dd02c8e468e08893060f9615
+      internalID: -2034780347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_144
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 389
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b132ef971eccf478797647f7789f94
+      internalID: 1011546201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_145
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496ad9bd7f845c438d2404315c6ae36
+      internalID: -1412342786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_146
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6d78220da3a841bfeb0063b8f8a83
+      internalID: -1167019858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_147
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee80c960114d14e9a7a9696fdd21e2
+      internalID: -1342458540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_148
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59e3e383b455b42afcb683a0dd17e3
+      internalID: 1102701822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_149
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6955641e322542a39c69d29e4fb7d
+      internalID: 427474349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_150
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9060b8a319b44286236e2b2463d14
+      internalID: 2086692837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_151
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81317194247904f8a0fab21e729fd0
+      internalID: -949989626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_152
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455031a387aab13499b2e2bf3c68a84f
+      internalID: 1546627794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_153
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d795bc0f5ab641a26055a5599d806
+      internalID: -322084063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_154
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71baa32981567bf4183bd1434caed2d1
+      internalID: 1510454234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_155
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01f58341ccfee4ba857a19284b74e6
+      internalID: -971450076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_156
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897dc6359a32de48a5c86460bc16141
+      internalID: -1937674529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_157
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0d91d6cc920c4b92c422ffa96733e
+      internalID: -1909339729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_158
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe346df3b03ea04ca17e802ca52474e
+      internalID: 1463057662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_159
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 269
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068f62c2ded1844ca6afb0788899e95
+      internalID: 1312356657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_160
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e0211a3593e649bc54900bdfb73ba
+      internalID: -394947838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_161
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214eb1a9dc2764d4d8d2b7cb72087e64
+      internalID: -1346046631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_162
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb462d08a079494fa57180b90090bdf
+      internalID: -1976271412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_163
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6df07a48fc45d469d023e42b006293
+      internalID: 724105870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_164
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc86f58b67a7274db84a0f97ecefd9c
+      internalID: -1532330908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_165
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cac553e7db4a241a7d73a0c55204f6
+      internalID: 1259602853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_166
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0ca31d6fdf21948ae3795416283068
+      internalID: 186085914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_167
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4d81c09241f314bbf129d663bb7984
+      internalID: -2071021064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_168
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4be5035a7569d498c95bb8a30f531d
+      internalID: 1579450465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_169
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c998a7af9ed630c4db48116204b7ee46
+      internalID: 1137266956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_170
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77d186bd2754745897a21e776ed6c5
+      internalID: -1311184433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_171
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf572263feadc4aa6b266a906c591c
+      internalID: 1357191228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_172
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafcc6dffd645d4b8ad4dc02b2ee0f7
+      internalID: 1435510657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_173
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 149
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e2236e23a2db4f8d9b2e540e8b49e
+      internalID: -1682772128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_174
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a505ff44d28345ab782307b8d440d
+      internalID: 1785194979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_175
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331556d5021240a49bee063b8ccdd48f
+      internalID: 456776578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_176
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd28d446c4ff04e9b2ee9f3462aa9c
+      internalID: 1379421003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_177
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58edcf6177917cb4ea1d859a57f95e89
+      internalID: -636485979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_178
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e7ba9898c5b3f47b1733a202cc02a4
+      internalID: -773249757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_179
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22753d0c38f4f5346becc6cbb26a9095
+      internalID: 1221202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_180
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf56ea87fa32b1499b1c0b97e8e3957
+      internalID: 1352323674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_181
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80d04fd7c730ee40ab300602e11fa34
+      internalID: 764556751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_182
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea519d927b16ded4a838be3c39496a4f
+      internalID: -2048787288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_183
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6821946adb8b8c45ad37e261db075f2
+      internalID: -860611141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_184
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711f2ea977cb0a48a933dfaea73492e
+      internalID: -1008609918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_185
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8845a54f8d01404886a89ccf4c12112
+      internalID: 1843085922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_186
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02332d3b403a924891bbb4fa16b240d
+      internalID: -2059946778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_187
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f594a9657f0549ae352659e1a0b61
+      internalID: -538432741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall texture 1_188
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 29
+        width: 240
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      physicsShape:
+      - - {x: 0, y: -120}
+        - {x: 120, y: 0}
+        - {x: 0, y: 120}
+        - {x: -120, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fd8623ecec3a4ba8e4a996e322464
+      internalID: 1085064072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 823e53a724281e94380a8e8554c4b50b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wall texture 1_0: 643429541
+      Wall texture 1_1: 1394705944
+      Wall texture 1_10: -227313130
+      Wall texture 1_100: -483348985
+      Wall texture 1_101: -1094247083
+      Wall texture 1_102: 67493396
+      Wall texture 1_103: 1367710564
+      Wall texture 1_104: -640478497
+      Wall texture 1_105: -872805693
+      Wall texture 1_106: 2028102711
+      Wall texture 1_107: 1113501968
+      Wall texture 1_108: -1785994406
+      Wall texture 1_109: 2095799620
+      Wall texture 1_11: 1660804931
+      Wall texture 1_110: -1259940362
+      Wall texture 1_111: -282794778
+      Wall texture 1_112: -1081659560
+      Wall texture 1_113: -730522245
+      Wall texture 1_114: -496947417
+      Wall texture 1_115: -1361246664
+      Wall texture 1_116: 138398422
+      Wall texture 1_117: 2345339
+      Wall texture 1_118: 614939304
+      Wall texture 1_119: -1853854938
+      Wall texture 1_12: -180539969
+      Wall texture 1_120: -539694534
+      Wall texture 1_121: -2094432351
+      Wall texture 1_122: 678373912
+      Wall texture 1_123: -246929042
+      Wall texture 1_124: -1732360778
+      Wall texture 1_125: 323932524
+      Wall texture 1_126: -421810337
+      Wall texture 1_127: -875884383
+      Wall texture 1_128: -1764631322
+      Wall texture 1_129: -1171046042
+      Wall texture 1_13: -1387956080
+      Wall texture 1_130: -1177845037
+      Wall texture 1_131: -1274967016
+      Wall texture 1_132: -1088043674
+      Wall texture 1_133: -689774827
+      Wall texture 1_134: -1680551852
+      Wall texture 1_135: -1836955776
+      Wall texture 1_136: 185422676
+      Wall texture 1_137: -394869740
+      Wall texture 1_138: 1746543643
+      Wall texture 1_139: 1739957634
+      Wall texture 1_14: -2084969242
+      Wall texture 1_140: 1237189408
+      Wall texture 1_141: 2103651701
+      Wall texture 1_142: 904213366
+      Wall texture 1_143: -2034780347
+      Wall texture 1_144: 1011546201
+      Wall texture 1_145: -1412342786
+      Wall texture 1_146: -1167019858
+      Wall texture 1_147: -1342458540
+      Wall texture 1_148: 1102701822
+      Wall texture 1_149: 427474349
+      Wall texture 1_15: 1845112638
+      Wall texture 1_150: 2086692837
+      Wall texture 1_151: -949989626
+      Wall texture 1_152: 1546627794
+      Wall texture 1_153: -322084063
+      Wall texture 1_154: 1510454234
+      Wall texture 1_155: -971450076
+      Wall texture 1_156: -1937674529
+      Wall texture 1_157: -1909339729
+      Wall texture 1_158: 1463057662
+      Wall texture 1_159: 1312356657
+      Wall texture 1_16: 98695702
+      Wall texture 1_160: -394947838
+      Wall texture 1_161: -1346046631
+      Wall texture 1_162: -1976271412
+      Wall texture 1_163: 724105870
+      Wall texture 1_164: -1532330908
+      Wall texture 1_165: 1259602853
+      Wall texture 1_166: 186085914
+      Wall texture 1_167: -2071021064
+      Wall texture 1_168: 1579450465
+      Wall texture 1_169: 1137266956
+      Wall texture 1_17: -1613410155
+      Wall texture 1_170: -1311184433
+      Wall texture 1_171: 1357191228
+      Wall texture 1_172: 1435510657
+      Wall texture 1_173: -1682772128
+      Wall texture 1_174: 1785194979
+      Wall texture 1_175: 456776578
+      Wall texture 1_176: 1379421003
+      Wall texture 1_177: -636485979
+      Wall texture 1_178: -773249757
+      Wall texture 1_179: 1221202716
+      Wall texture 1_18: -1412020060
+      Wall texture 1_180: 1352323674
+      Wall texture 1_181: 764556751
+      Wall texture 1_182: -2048787288
+      Wall texture 1_183: -860611141
+      Wall texture 1_184: -1008609918
+      Wall texture 1_185: 1843085922
+      Wall texture 1_186: -2059946778
+      Wall texture 1_187: -538432741
+      Wall texture 1_188: 1085064072
+      Wall texture 1_19: 793018447
+      Wall texture 1_2: 2050731189
+      Wall texture 1_20: 1041602547
+      Wall texture 1_21: -514532025
+      Wall texture 1_22: 583898060
+      Wall texture 1_23: 517599109
+      Wall texture 1_24: 1935948685
+      Wall texture 1_25: 1130659877
+      Wall texture 1_26: -1272936054
+      Wall texture 1_27: 1196011228
+      Wall texture 1_28: -476672576
+      Wall texture 1_29: -545385040
+      Wall texture 1_3: 1775170508
+      Wall texture 1_30: 612515937
+      Wall texture 1_31: 287210425
+      Wall texture 1_32: 1301617208
+      Wall texture 1_33: -1544459459
+      Wall texture 1_34: 1751317328
+      Wall texture 1_35: 799139746
+      Wall texture 1_36: -1358076947
+      Wall texture 1_37: -972838630
+      Wall texture 1_38: 85078519
+      Wall texture 1_39: -1219493343
+      Wall texture 1_4: 1361830889
+      Wall texture 1_40: 401899340
+      Wall texture 1_41: -9214704
+      Wall texture 1_42: 1840571287
+      Wall texture 1_43: 1915218418
+      Wall texture 1_44: 1286843247
+      Wall texture 1_45: -1122075501
+      Wall texture 1_46: -1615333293
+      Wall texture 1_47: 971033948
+      Wall texture 1_48: 650626086
+      Wall texture 1_49: 2131009516
+      Wall texture 1_5: 915274524
+      Wall texture 1_50: 380397069
+      Wall texture 1_51: -1298685979
+      Wall texture 1_52: -1070614083
+      Wall texture 1_53: -1392222725
+      Wall texture 1_54: -1010184262
+      Wall texture 1_55: -1588420956
+      Wall texture 1_56: -407414722
+      Wall texture 1_57: 50688444
+      Wall texture 1_58: -737859249
+      Wall texture 1_59: -1013716673
+      Wall texture 1_6: -893513758
+      Wall texture 1_60: 852584332
+      Wall texture 1_61: 1015084279
+      Wall texture 1_62: -1698464882
+      Wall texture 1_63: 1467116379
+      Wall texture 1_64: 335746923
+      Wall texture 1_65: -473219146
+      Wall texture 1_66: -1252526130
+      Wall texture 1_67: -1621302574
+      Wall texture 1_68: -1375137384
+      Wall texture 1_69: -1200872626
+      Wall texture 1_7: -889200212
+      Wall texture 1_70: 229859826
+      Wall texture 1_71: -1998074978
+      Wall texture 1_72: 1938135947
+      Wall texture 1_73: -1221625453
+      Wall texture 1_74: -1892379405
+      Wall texture 1_75: 1171625410
+      Wall texture 1_76: 58645437
+      Wall texture 1_77: 1831292192
+      Wall texture 1_78: -1299696483
+      Wall texture 1_79: 1589200029
+      Wall texture 1_8: 346409904
+      Wall texture 1_80: 1651975665
+      Wall texture 1_81: 351575880
+      Wall texture 1_82: -1914126137
+      Wall texture 1_83: -1672896233
+      Wall texture 1_84: 1524017535
+      Wall texture 1_85: -1093831119
+      Wall texture 1_86: -2112487570
+      Wall texture 1_87: 616711864
+      Wall texture 1_88: -44124757
+      Wall texture 1_89: 1661690087
+      Wall texture 1_9: -183403591
+      Wall texture 1_90: -845029869
+      Wall texture 1_91: -1274851666
+      Wall texture 1_92: -2049345318
+      Wall texture 1_93: -237856209
+      Wall texture 1_94: 165082816
+      Wall texture 1_95: 410188535
+      Wall texture 1_96: 541294985
+      Wall texture 1_97: 202448114
+      Wall texture 1_98: -1194911111
+      Wall texture 1_99: -146708243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

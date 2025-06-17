@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 07ff163cb763092479063dcf4d7b4c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3443652681899071086
+    second: idle hand animation2_0
+  - first:
+      213: -7461534490203862136
+    second: idle hand animation2_1
+  - first:
+      213: -2176147699747983575
+    second: idle hand animation2_2
+  - first:
+      213: 3878526811700349317
+    second: idle hand animation2_3
+  - first:
+      213: 5510815433619238459
+    second: idle hand animation2_4
+  - first:
+      213: -942423864188554992
+    second: idle hand animation2_5
+  - first:
+      213: 2234850436864072523
+    second: idle hand animation2_6
+  - first:
+      213: 3497281792997400482
+    second: idle hand animation2_7
+  - first:
+      213: -2110302455531551201
+    second: idle hand animation2_8
+  - first:
+      213: 3257803173658239063
+    second: idle hand animation2_9
+  - first:
+      213: 5235670269543815419
+    second: idle hand animation2_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle hand animation2_3
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 1702
+        width: 706
+        height: 802
+      alignment: 9
+      pivot: {x: 0.36685553, y: 0.86783046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894a3ff59b43d530800000000000000
+      internalID: 3878526811700349317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle hand animation2_5
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 1574
+        width: 896
+        height: 962
+      alignment: 9
+      pivot: {x: 0.42968753, y: 0.8887734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b03b1d76dbe2f0800000000000000
+      internalID: -942423864188554992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle hand animation2_6
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1739
+        width: 528
+        height: 696
+      alignment: 9
+      pivot: {x: 0.30492425, y: 0.8117816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd86fa1a8c30f10800000000000000
+      internalID: 2234850436864072523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle hand animation2_7
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1780
+        width: 562
+        height: 665
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7864662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af1d07e247d88030800000000000000
+      internalID: 3497281792997400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfac0601dfc19a84181c49645a20cb70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle hand animation2_3: 3878526811700349317
+      idle hand animation2_5: -942423864188554992
+      idle hand animation2_6: 2234850436864072523
+      idle hand animation2_7: 3497281792997400482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
